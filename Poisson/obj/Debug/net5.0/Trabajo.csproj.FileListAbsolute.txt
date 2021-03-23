@@ -1,0 +1,64 @@
+C:\Users\salve\Desktop\Trabajo\bin\Debug\net5.0\Trabajo.exe
+C:\Users\salve\Desktop\Trabajo\bin\Debug\net5.0\Trabajo.deps.json
+C:\Users\salve\Desktop\Trabajo\bin\Debug\net5.0\Trabajo.runtimeconfig.json
+C:\Users\salve\Desktop\Trabajo\bin\Debug\net5.0\Trabajo.runtimeconfig.dev.json
+C:\Users\salve\Desktop\Trabajo\bin\Debug\net5.0\Trabajo.dll
+C:\Users\salve\Desktop\Trabajo\bin\Debug\net5.0\ref\Trabajo.dll
+C:\Users\salve\Desktop\Trabajo\bin\Debug\net5.0\Trabajo.pdb
+C:\Users\salve\Desktop\Trabajo\obj\Debug\net5.0\Trabajo.csprojAssemblyReference.cache
+C:\Users\salve\Desktop\Trabajo\obj\Debug\net5.0\Trabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salve\Desktop\Trabajo\obj\Debug\net5.0\Trabajo.AssemblyInfoInputs.cache
+C:\Users\salve\Desktop\Trabajo\obj\Debug\net5.0\Trabajo.AssemblyInfo.cs
+C:\Users\salve\Desktop\Trabajo\obj\Debug\net5.0\Trabajo.csproj.CoreCompileInputs.cache
+C:\Users\salve\Desktop\Trabajo\obj\Debug\net5.0\Trabajo.dll
+C:\Users\salve\Desktop\Trabajo\obj\Debug\net5.0\ref\Trabajo.dll
+C:\Users\salve\Desktop\Trabajo\obj\Debug\net5.0\Trabajo.pdb
+C:\Users\salve\Desktop\Trabajo\obj\Debug\net5.0\Trabajo.genruntimeconfig.cache
+C:\Users\salve\Desktop\Trabajo - copia\bin\Debug\net5.0\Trabajo.exe
+C:\Users\salve\Desktop\Trabajo - copia\bin\Debug\net5.0\Trabajo.deps.json
+C:\Users\salve\Desktop\Trabajo - copia\bin\Debug\net5.0\Trabajo.runtimeconfig.json
+C:\Users\salve\Desktop\Trabajo - copia\bin\Debug\net5.0\Trabajo.runtimeconfig.dev.json
+C:\Users\salve\Desktop\Trabajo - copia\bin\Debug\net5.0\Trabajo.dll
+C:\Users\salve\Desktop\Trabajo - copia\bin\Debug\net5.0\ref\Trabajo.dll
+C:\Users\salve\Desktop\Trabajo - copia\bin\Debug\net5.0\Trabajo.pdb
+C:\Users\salve\Desktop\Trabajo - copia\obj\Debug\net5.0\Trabajo.csprojAssemblyReference.cache
+C:\Users\salve\Desktop\Trabajo - copia\obj\Debug\net5.0\Trabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salve\Desktop\Trabajo - copia\obj\Debug\net5.0\Trabajo.AssemblyInfoInputs.cache
+C:\Users\salve\Desktop\Trabajo - copia\obj\Debug\net5.0\Trabajo.AssemblyInfo.cs
+C:\Users\salve\Desktop\Trabajo - copia\obj\Debug\net5.0\Trabajo.csproj.CoreCompileInputs.cache
+C:\Users\salve\Desktop\Trabajo - copia\obj\Debug\net5.0\Trabajo.dll
+C:\Users\salve\Desktop\Trabajo - copia\obj\Debug\net5.0\ref\Trabajo.dll
+C:\Users\salve\Desktop\Trabajo - copia\obj\Debug\net5.0\Trabajo.pdb
+C:\Users\salve\Desktop\Trabajo - copia\obj\Debug\net5.0\Trabajo.genruntimeconfig.cache
+C:\Users\salve\Desktop\Trabajo - copia - copia\obj\Debug\net5.0\Trabajo.csprojAssemblyReference.cache
+C:\Users\salve\Desktop\Trabajo - copia - copia\obj\Debug\net5.0\Trabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salve\Desktop\Trabajo - copia - copia\obj\Debug\net5.0\Trabajo.AssemblyInfoInputs.cache
+C:\Users\salve\Desktop\Trabajo - copia - copia\obj\Debug\net5.0\Trabajo.AssemblyInfo.cs
+C:\Users\salve\Desktop\Trabajo - copia - copia\obj\Debug\net5.0\Trabajo.csproj.CoreCompileInputs.cache
+C:\Users\salve\Desktop\Trabajo - copia - copia\obj\Debug\net5.0\Trabajo.dll
+C:\Users\salve\Desktop\Trabajo - copia - copia\obj\Debug\net5.0\ref\Trabajo.dll
+C:\Users\salve\Desktop\Trabajo - copia - copia\obj\Debug\net5.0\Trabajo.pdb
+C:\Users\salve\Desktop\Trabajo - copia - copia\bin\Debug\net5.0\Trabajo.exe
+C:\Users\salve\Desktop\Trabajo - copia - copia\bin\Debug\net5.0\Trabajo.deps.json
+C:\Users\salve\Desktop\Trabajo - copia - copia\bin\Debug\net5.0\Trabajo.runtimeconfig.json
+C:\Users\salve\Desktop\Trabajo - copia - copia\bin\Debug\net5.0\Trabajo.runtimeconfig.dev.json
+C:\Users\salve\Desktop\Trabajo - copia - copia\bin\Debug\net5.0\Trabajo.dll
+C:\Users\salve\Desktop\Trabajo - copia - copia\bin\Debug\net5.0\ref\Trabajo.dll
+C:\Users\salve\Desktop\Trabajo - copia - copia\bin\Debug\net5.0\Trabajo.pdb
+C:\Users\salve\Desktop\Trabajo - copia - copia\obj\Debug\net5.0\Trabajo.genruntimeconfig.cache
+C:\Users\salve\Desktop\Prueba\obj\Debug\net5.0\Trabajo.csprojAssemblyReference.cache
+C:\Users\salve\Desktop\Prueba\obj\Debug\net5.0\Trabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salve\Desktop\Prueba\obj\Debug\net5.0\Trabajo.AssemblyInfoInputs.cache
+C:\Users\salve\Desktop\Prueba\obj\Debug\net5.0\Trabajo.AssemblyInfo.cs
+C:\Users\salve\Desktop\Prueba\obj\Debug\net5.0\Trabajo.csproj.CoreCompileInputs.cache
+C:\Users\salve\Desktop\Prueba\obj\Debug\net5.0\Trabajo.dll
+C:\Users\salve\Desktop\Prueba\obj\Debug\net5.0\ref\Trabajo.dll
+C:\Users\salve\Desktop\Prueba\obj\Debug\net5.0\Trabajo.pdb
+C:\Users\salve\Desktop\Prueba\bin\Debug\net5.0\Trabajo.exe
+C:\Users\salve\Desktop\Prueba\bin\Debug\net5.0\Trabajo.deps.json
+C:\Users\salve\Desktop\Prueba\bin\Debug\net5.0\Trabajo.runtimeconfig.json
+C:\Users\salve\Desktop\Prueba\bin\Debug\net5.0\Trabajo.runtimeconfig.dev.json
+C:\Users\salve\Desktop\Prueba\bin\Debug\net5.0\Trabajo.dll
+C:\Users\salve\Desktop\Prueba\bin\Debug\net5.0\ref\Trabajo.dll
+C:\Users\salve\Desktop\Prueba\bin\Debug\net5.0\Trabajo.pdb
+C:\Users\salve\Desktop\Prueba\obj\Debug\net5.0\Trabajo.genruntimeconfig.cache
